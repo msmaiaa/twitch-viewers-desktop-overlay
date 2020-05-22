@@ -1,6 +1,6 @@
 # twitch-viewers-desktop-overlay
 
-This is a basic desktop overlay made with tkinter, it shows the quantity of the live twitch channel viewers, you can edit the py file to adjust according to your monitor resolution. It's made for 1920x1080p monitors but you can adjust the position of the text inside the script.
+This is a basic desktop overlay made with tkinter, it shows the quantity of the live twitch channel viewers. It's made for 1920x1080p monitors but you can adjust the position of the text inside the script.
 
 How to open it:
   Open the cmd in the .py file directory and just type python overlay.py
