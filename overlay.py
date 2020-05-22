@@ -14,6 +14,7 @@ def overlay():
     label = tkinter.Label(text="", font=('Times New Roman',f'{tamanhoFonte}'), fg='red', bg='white')
     label.master.overrideredirect(True)
     
+    #change the text position (x and y)
     label.master.geometry("+1875+0")
     label.master.lift()
     label.master.wm_attributes("-topmost", True)
